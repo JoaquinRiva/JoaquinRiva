@@ -1,16 +1,21 @@
-### Hi there 👋
+# Joaquin Riva - Fullstack Developer
 
-<!--
-**JoaquinRiva/JoaquinRiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
+Hello! 👋 I'm Joaquin Riva, a 21-year-old Fullstack Developer from Argentina. I'm passionate about creating innovative and efficient solutions to complex problems.
 
-Here are some ideas to get you started:
+## About Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/joaquin-riva-80a504254/)
+- ✉️ Email: rivajoaquin012@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 💻 Fullstack Development
+- 🚀 Frontend: HTML, CSS, JavaScript, React
+- ⚙️ Backend: Node.js, Express, PostgresSQL
+- 🛠️ Other: Git, RESTful APIs, Agile methodologies
+
+
+## Contact
+Feel free to reach out to me via [email](mailto:rivajoaquin012@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joaquin-riva-80a504254/). I'm always open to new opportunities, collaborations, and discussions.
+
+Let's build something amazing together! 🚀
+.
